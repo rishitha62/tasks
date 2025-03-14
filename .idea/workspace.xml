@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4daa4b4-102e-433c-8cae-629a47c51d44" name="Changes" comment="task 5">
-      <change beforePath="$PROJECT_DIR$/task05/.idea/task05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/task05/.idea/task05.iml" afterDir="false" />
+    <list default="true" id="d4daa4b4-102e-433c-8cae-629a47c51d44" name="Changes" comment="task 9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +39,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/AWS/task05&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/AWS/tasks&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -74,11 +75,55 @@
       <option name="project" value="LOCAL" />
       <updated>1741858911368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 4">
+      <option name="closed" value="true" />
+      <created>1741865916718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741865916718</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task 7">
+      <option name="closed" value="true" />
+      <created>1741867156867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741867156867</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task 7">
+      <option name="closed" value="true" />
+      <created>1741867267704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741867267704</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task 8">
+      <option name="closed" value="true" />
+      <created>1741870480203</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741870480203</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task 9">
+      <option name="closed" value="true" />
+      <created>1741932461496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741932461496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 5" />
+    <MESSAGE value="task 4" />
+    <MESSAGE value="task 7" />
+    <MESSAGE value="task 8" />
+    <MESSAGE value="task 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 9" />
   </component>
 </project>
